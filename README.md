@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5F9EA0&height=120&section=header"/>
 
-## Hi, I'm Gabriela Valentim 👋🏽 
+## Hi, I'm Gabi 👋
 
 I'm a Biologist and PhD Student @[Labomar](https://labomar.ufc.br/pt), Brazil. I work with ecological data, mainly from coastal environments in the Neotropical region.
 Curious about data science and machine learning.
