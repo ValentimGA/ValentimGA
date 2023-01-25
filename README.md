@@ -2,7 +2,7 @@
 
 ## Hi, I'm Gabriela Valentim 👋🏽 
 
-I'm a Biologist and PhD Student @[Labomar](https://labomar.ufc.br/), Brazil. I work with ecological data, mainly from coastal environments in the Neotropical region.
+I'm a Biologist and PhD Student @[Labomar](https://labomar.ufc.br/pt), Brazil. I work with ecological data, mainly from coastal environments in the Neotropical region.
 Curious about data science and machine learning.
  
 #### Main skills:
