@@ -16,12 +16,12 @@ Currently learning Python and expanding my skills in machine learning and cloud 
 
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
 
-![SQL](https://img.shields.io/badge/-sql-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+![SQL](https://img.shields.io/badge/-sql-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117)&nbsp;
 
 #### Studying in this moment:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
 
-![SQL](https://img.shields.io/badge/-sql-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+![SQL](https://img.shields.io/badge/-sql-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117)&nbsp;
 
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-0D1117?style=for-the-badge&logo=googlecloud&labelColor=0D1117)&nbsp;
 
